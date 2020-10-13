@@ -1,7 +1,6 @@
-
 public class test {
 	public static void main(String[] args)
 	{
-		System.out.println("Gonna push lol")
+		System.out.println("Gonna push lol");
 	}
 }
